@@ -5,7 +5,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My Blog, Github Project
+- 🔭 I’m currently working on Youtube, Github Project
 
 - 🌱 I’m currently learning MERN Stack Web Development
 
@@ -38,6 +38,7 @@
 
 [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:yashfalke77@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in//)
+[![Connect on YouTube](https://img.shields.io/badge/--youtube?label=youtube&logo=YouTube&style=social)](https://www.youtube.com/channel/UCax8or2_bzQCHe0GdSLITOA)
 
 
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashfalke77&show_icons=true&hide_border=true)
