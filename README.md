@@ -15,7 +15,7 @@
 
 <br/>
 <br/>
-### :zap: Language And Tools🔥
+:zap: Language And Tools🔥
 
 <p align="left">
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/c-original.svg" alt="C" width="40" height="40"/></code>
