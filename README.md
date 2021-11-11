@@ -15,9 +15,9 @@
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
 
 
-<hr>
 
-### :zap: Language And Tools🔥
+
+<h2>### :zap: Language And Tools🔥</h2>
 
 <p align="left">
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/c-original.svg" alt="C" width="40" height="40"/></code>
