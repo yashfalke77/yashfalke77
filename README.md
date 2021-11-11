@@ -1,7 +1,7 @@
 ## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I’m Yash Falke, A Web Developer🤎
+<img src = "https://giffiles.alphacoders.com/822/8223.gif" width = 100px>
 
-
-<h2> About Me <img src = "https://giffiles.alphacoders.com/822/8223.gif" width = 100px></h2>
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
