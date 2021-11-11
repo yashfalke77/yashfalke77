@@ -1,8 +1,7 @@
 ## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I’m Yash Falke, A Web Developer🤎
-<img src = "https://image.emojipng.com/725/9373725.jpg" width = 100px>
 
-<h2> About Me </h2>
 
+### :zap: About me !!!
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
@@ -16,7 +15,7 @@
 
 <br/>
 <br/>
-<h2>### :zap: Language And Tools🔥</h2>
+### :zap: Language And Tools🔥
 
 <p align="left">
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/c-original.svg" alt="C" width="40" height="40"/></code>
