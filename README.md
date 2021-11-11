@@ -14,9 +14,8 @@
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
 
-
-
-
+<br/>
+<br/>
 <h2>### :zap: Language And Tools🔥</h2>
 
 <p align="left">
