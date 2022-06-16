@@ -15,7 +15,7 @@ Want to know more about me? [Check out my Designs.](https://codepen.io/yashfalke
 
 <br>
 
-<a href="https://github.com/yashfalke77">
+<a href="https://github.com/yashfalke77" style="margin-right: 3rem;">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashfalke77&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
@@ -86,19 +86,3 @@ Want to know more about me? [Check out my Designs.](https://codepen.io/yashfalke
 </details>
 
 <br>
-
-## 📣 How about an Office quote before you go?
-
-> {office_quote}
->
-> <p>{office_character}</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
-
-<br>
-
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
