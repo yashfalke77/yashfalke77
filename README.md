@@ -1,7 +1,7 @@
 [![Braydon's GitHub Banner](./GitHubHeader.png)]([https://yashfalke77.github.io/Portfolio-Website/]())
 
 [![Visits Badge](https://badges.pufler.dev/visits/yashfalke77/yashfalke77)](https://github.com/yashfalke77)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-Profile-informational?style=flat&logo=Youtube&logoColor=white&color=1CA2F1)](https://www.youtube.com/channel/UCax8or2_bzQCHe0GdSLITOA)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-Profile-informational?style=flat&logo=Youtube&logoColor=white&color=red)](https://www.youtube.com/channel/UCax8or2_bzQCHe0GdSLITOA)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yashfalke77/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/yashfalke77)
 
