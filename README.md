@@ -16,13 +16,13 @@ Want to know more about me? [Check out my Designs.](https://codepen.io/yashfalke
 <br>
 
 <a href="https://github.com/yashfalke77">
-  <img align="center" style="margin-right:200px; margin-bottom: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashfalke77&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashfalke77&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+<br>
 <a href="https://github.com/yashfalke77">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=yashfalke77&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Yash's GitHub Stats" />
+  <img align="center" style="margin:0.5rem;" src="https://github-readme-stats.vercel.app/api?username=yashfalke77&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Yash's GitHub Stats" />
 </a>
-
+<br>
 <a href="http://www.github.com/yashfalke77"><img src="https://activity-graph.herokuapp.com/graph?username=yashfalke77&bg_color=1A2B34&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <br>
