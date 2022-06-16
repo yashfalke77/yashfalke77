@@ -26,7 +26,7 @@ Want to know more about me? [Check out my Designs.](https://codepen.io/yashfalke
 <a href="http://www.github.com/yashfalke77"><img src="https://github-readme-stats.vercel.app/api?username=yashfalke77&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Siddhesh2811's GitHub stats" /></a>
 
 <a href="http://www.github.com/yashfalke77"><img src="https://activity-graph.herokuapp.com/graph?username=yashfalke77&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashfalke77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/yashfalke77" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashfalke77&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <br>
