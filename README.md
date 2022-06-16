@@ -4,7 +4,7 @@
 [![Youtube Badge](https://img.shields.io/badge/Youtube-Profile-informational?style=flat&logo=Youtube&logoColor=white&color=red)](https://www.youtube.com/channel/UCax8or2_bzQCHe0GdSLITOA)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yashfalke77/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/yashfalke77)
-[![GMAIL Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/yashfalke77)
+[![GMAIL Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail&logoColor=white&color=yellow)](https://codepen.io/yashfalke77)
 
 Hey there 👋
 
