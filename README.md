@@ -16,7 +16,7 @@ Want to know more about me? [Check out my Designs.](https://codepen.io/yashfalke
 <br>
 
 <a href="https://github.com/yashfalke77">
-  <img align="center" style="margin:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashfalke77&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin-right:200px; margin-bottom: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashfalke77&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/yashfalke77">
