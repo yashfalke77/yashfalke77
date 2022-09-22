@@ -9,7 +9,7 @@ Hey there 👋
 
 I’m Yash, a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development/ back-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my Designs.](https://codepen.io/yashfalke77)
+Want to know more about me? [Check out my Designs.](https://yashfalke77.netlify.app/)
 
 ## 💼 Skills
 
