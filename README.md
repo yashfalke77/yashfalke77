@@ -37,8 +37,6 @@ Want to know more about me? [Check out my Designs.](https://yashfalke77.netlify.
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yashfalke77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashfalke77&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashfalke77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
