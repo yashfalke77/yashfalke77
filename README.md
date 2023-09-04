@@ -38,17 +38,18 @@ Want to know more about me? [Check out my Designs.](https://yashfalke77.netlify.
 ## &#x1f4c8; GitHub Stats
 
 <br>
+![](https://github-readme-stats.vercel.app/api?username=yashfalke77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yashfalke77&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashfalke77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://github.com/yashfalke77">
-  <img align="center" style="margin:0.5rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashfalke77&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<span>	&nbsp; 	&nbsp;</span>
-<a href="https://github.com/yashfalke77">
-  <img align="center" style="margin:0.5rem;" src="https://github-readme-stats.vercel.app/api?username=yashfalke77&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Yash's GitHub Stats" />
-</a>
-<br>
-<br>
-<a href="http://www.github.com/yashfalke77"><img src="https://activity-graph.herokuapp.com/graph?username=yashfalke77&bg_color=1A2B34&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yashfalke77&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yashfalke77) 
 
 <br>
 <br>
